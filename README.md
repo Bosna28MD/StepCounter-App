@@ -37,6 +37,12 @@ When user is log-in in the bottom of the aplication is printed a bottom navigati
 - Generate a service key from Firebase service acounts from Settings
 - Rename that .jso key file generated to ```server-account.json```
 - Insert that service acount key into ```FirebaseCloudFunction_API1_FP3/functions``` and ```FirebaseCloudFunction_API2_FP3/functions```
-- Deploy this firebase folders into firebase function service
+- Deploy these firebase folders from repository into firebase function service
+
+
+## Images:
+![Step_Counter_Home](https://github.com/user-attachments/assets/215a2652-8d4d-4ffb-8e15-0c92b384be63)
+![Step_Counter_Log_in](https://github.com/user-attachments/assets/5a0c539d-a197-4852-b8f0-51860dfac177)
+
 
 
