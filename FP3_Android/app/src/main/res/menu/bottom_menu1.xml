@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <!--
+    <item
+        android:id="@+id/runStep_bottom"
+        android:title="StepCounter"
+        android:icon="@drawable/baseline_run_circle_24"
+        />
+        -->
+    <item
+        android:id="@+id/login_bottom"
+        android:title="LogIn"
+        android:icon="@drawable/baseline_home_24"
+        />
+
+
+    <item
+        android:id="@+id/register_bottom"
+        android:title="Register"
+        android:icon="@drawable/baseline_app_registration_24" />
+
+
+
+</menu>
